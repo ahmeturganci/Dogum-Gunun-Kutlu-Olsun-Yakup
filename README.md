@@ -6,4 +6,4 @@ Yapmanız gereken adınız ve soyadınız ile bir .md dosyası açmak ve içeris
 
 
 
-Aldığım En Güzel Heidyelerden birisi çok teşekkür ederim tüm commit atan herkese :D Adamsınız!!!
+---> Aldığım En Güzel Heidyelerden birisi çok teşekkür ederim tüm commit atan herkese :D Adamsınız!!! Sevgilerimle Yakup Ad :)
